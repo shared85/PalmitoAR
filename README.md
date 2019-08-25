@@ -1,3 +1,3 @@
 # PalmitoAR
 
-[![Palmito Ranch Battle Field](https://i.ytimg.com/vi/PH9rLrZxQhk/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLA93ci2OEmHiHICfNgN0zzR3k6QZQ)](https://www.youtube.com/watch?v=PH9rLrZxQhk "Palmito Ranch Battle Field")
+[![Palmito Ranch Battle Field](https://github.com/shared85/PalmitoAR/blob/master/teaser.PNG?raw=true)](https://www.youtube.com/watch?v=PH9rLrZxQhk "Palmito Ranch Battle Field")
